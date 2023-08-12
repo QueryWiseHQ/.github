@@ -1,12 +1,40 @@
-## Hi there 👋
+# QueryWise
 
-<!--
+SQL editor built for teams
+Collabrative SQL Editor Designed To Boost Developers, Data Analysts Productivity.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Features 
+
+### Ultimate Editor
+Querywise offers a plethora of features such as auto-save, quick search, query history and version history, auto complete  providing a seamless editing experience.
+
+
+### Multiple Databases
+You don't have switch to multiple editors, Querywise can connenct multiple database providers
+
+
+### Self Hostable
+ Deploy Querywise on your own infrastructure for complete control and privacy.
+
+### Authentication
+ Supports Multiple Auth Providers such as google,github and many more in future 
+
+
+### Access control
+ Supports Multiple Auth Providers. Keep your data secure while facilitating collaboration with Role based access. 
+
+
+### Team Workspace
+ Create workspaces for your teams to organize queries, data sources, and reports together in one place.
+
+### Query Variables
+  Dynamic and flexible queries by parameterizing values.
+
+### Dashboards
+  Pre build Dashobard to monitor your database health
+
+
+### AI Powered
+ Optimize the performance and reduce the cost of long-running queries.  
+
